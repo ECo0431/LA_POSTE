@@ -12,6 +12,11 @@ body{
     flex-direction: column;
 }
 
+h1{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .map{
     width: 320px;
     height: 100px;
